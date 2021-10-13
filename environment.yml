@@ -1,0 +1,8 @@
+name: raytracer
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - k3d
+  - scipy
+  - nodejs
