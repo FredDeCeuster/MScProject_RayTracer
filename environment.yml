@@ -1,6 +1,7 @@
 name: raytracer
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - jupyterlab
   - k3d
